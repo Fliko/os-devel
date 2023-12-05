@@ -1,0 +1,3 @@
+[submodule "notes/Osdev-Notes"]
+	path = notes/Osdev-Notes
+	url = https://github.com/dreamos82/Osdev-Notes.git

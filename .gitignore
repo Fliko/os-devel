@@ -1,0 +1,7 @@
+# Don't upload cross compilation binaries and dependencies
+cross/**
+
+# Don't upload built components
+*.iso
+*.o
+*.bin
